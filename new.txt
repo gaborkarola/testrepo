@@ -2,3 +2,5 @@ bob
 gim
 bla
 bla
+Most beírok ide valami nagyon hosszút.
+pápá  git config --global user.name "Your Name"
